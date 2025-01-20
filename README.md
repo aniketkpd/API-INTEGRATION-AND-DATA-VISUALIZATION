@@ -6,8 +6,6 @@
 
 **INTERN ID** : CT12WLSO
 
-**INTERN ID** : CT12WLSO
-
 **BATCH DURATION** : January 10th, 2025 to April 10th, 2025
 
 **INTERN ID** : Neela Santhosh
