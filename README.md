@@ -34,7 +34,7 @@ W3Schools: Helped in learning the syntax and usage of Python libraries like requ
 Output: The output of this project is a series of bar charts that display the weather data for each city. Each chart compares one weather factor (temperature, humidity, or wind speed) across all the cities. The temperature is shown in Celsius, humidity in percentage, and wind speed in meters per second. This allows users to easily compare and analyze the weather conditions of different cities. The use of colors in the bar charts further enhances the clarity and visual appeal of the results.
 
 
-#OUTPUT OF THE TASK
+**OUTPUT OF THE TASK**
 
 ![humidity](https://github.com/user-attachments/assets/f901e2ab-5970-495a-8f29-c48850094b5a)
 ![temperature](https://github.com/user-attachments/assets/c1023a6e-7a87-441f-a77e-3fd096d86d81)
