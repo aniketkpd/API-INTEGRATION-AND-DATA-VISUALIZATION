@@ -8,7 +8,7 @@
 
 **BATCH DURATION** : January 10th, 2025 to April 10th, 2025
 
-**INTERN ID** : Neela Santhosh
+**MENTOR NAME** : Neela Santhosh
 
 # DESCRIPTION OF PROJECT
 
